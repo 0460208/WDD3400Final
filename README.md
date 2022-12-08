@@ -1,4 +1,6 @@
 # WDD3400Final
+# Author: Amanda Martel
+# Date: 12/7/2022
 # Description: Final Website for WDD 3400. Confetti Cuisine for booking cooking classes.
 # Built with Node, HTML, CSS 
 # Dependencies: http-status-codes
